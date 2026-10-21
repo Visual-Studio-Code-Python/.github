@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.utorrentprogrammy.ru/uploads/posts/2026-04/1776294953_jdahb.jpg" alt="Program Logo"/>
+  <img src="https://softcomputers.org/wp-content/uploads/2026/01/Visual-Studio-Enterprise-2026.jpg" alt="Program Logo"/>
 </div>
 
 <div align="center">
