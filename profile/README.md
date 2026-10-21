@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.icons8.ru/fluent/1200/visual-studio.jpg" alt="Program Logo"/>
+  <img src="https://img.utorrentprogrammy.ru/uploads/posts/2026-04/1776294953_jdahb.jpg" alt="Program Logo"/>
 </div>
 
 <div align="center">
